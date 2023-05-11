@@ -1,1 +1,2 @@
-# Personal-Bank-Loan-Modeling-Classification-Analysis
+# Personal Bank Loan Modeling
+Personal Bank Loan Modeling - Classification Analysis
