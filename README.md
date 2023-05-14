@@ -36,3 +36,7 @@ The classification goal is to predict the likelihood of a liability customer buy
 - As we will see later, our target variable has imbalanced data
 - For that reason, we are not going to use the Accuracy score,
 - Based on the problem on hand, we will use the Recall score.
+
+## Dataset 📔
+
+[Kaggle link: Personal Loan Classification Problem](https://www.kaggle.com/datasets/itsmesunil/bank-loan-modelling)
