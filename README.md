@@ -37,6 +37,8 @@ The classification goal is to predict the likelihood of a liability customer buy
 - For that reason, we are not going to use the Accuracy score,
 - Based on the problem on hand, we will use the Recall score.
 
+![Presentation4](https://github.com/alifrmf/Personal-Bank-Loan-Modeling-Classification-Analysis/assets/105715834/0773877f-a74d-43eb-9069-bba4ded079e4)
+
 ## Dataset 📔
 
 [Kaggle link: Personal Loan Classification Problem](https://www.kaggle.com/datasets/itsmesunil/bank-loan-modelling)
